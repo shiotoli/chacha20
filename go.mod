@@ -1,4 +1,4 @@
-module gitlab.com/shiotoli/chacha20
+module github.com/shiotoli/chacha20
 
 go 1.12
 
